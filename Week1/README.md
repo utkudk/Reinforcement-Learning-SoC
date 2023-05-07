@@ -1,6 +1,6 @@
-# Assignment 2: Dynamic Programming
+# Assignment 1: Solving MDPs
 
-You will be implementing methods of dynamic programming in this assignment on sample MDPs.
+You will be finding optimal policies for sample MDPs in this assignment.
 
 ## Goal
 
